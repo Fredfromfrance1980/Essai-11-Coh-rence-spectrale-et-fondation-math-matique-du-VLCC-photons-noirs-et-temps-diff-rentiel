@@ -1,6 +1,5 @@
 # Essai-11-Cohérence-spectrale-et-fondation-mathematique-du-VLCC-photons-noirs-et-temps-differentiel v.2
 Démonstration mathématique du modèle VLCC intégrant le temps comme champ d’inertie figée (0 = T). Propose une cohérence spectrale fermée encadrée par des photons noirs à fréquence nulle.
-# Essai 11 — Cohérence spectrale et architecture du modèle à temps différentiel v.2
 
 **Fondation mathématique du modèle cosmologique VLCC**  
 Auteur : Frédérick Vronsky  
